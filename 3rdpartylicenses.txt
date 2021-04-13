@@ -119,6 +119,9 @@ THE SOFTWARE.
 
 emitter-component
 
+emoticon-to-emoji
+MIT
+
 events
 MIT
 MIT
