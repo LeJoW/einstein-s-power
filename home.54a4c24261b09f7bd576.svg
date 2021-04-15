@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="1160" height="500" viewBox="0 0 120 120"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <defs>
+        <linearGradient id="rainbow" x1="0" x2="0" y1="0" y2="100%" gradientUnits="userSpaceOnUse" gradientTransform="rotate(295)">
+      <stop stop-color="#ffc107" offset="0%"/>
+      <stop stop-color="#f8f9fa" offset="100%"/> 
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" class="quote" dominant-baseline="ideographic" text-anchor="middle">
+    <tspan x="50%" dy="0">The genius, it’s <tspan class="badge">1%</tspan> of talent</tspan>
+    <tspan x="50%" dy="26px">and <tspan class="badge">99%</tspan> of hard work</tspan>
+  </text>    
+  <text x="95%" y="85%" class="small" text-anchor="right">— Albert Einstein</text>
+
+<style><![CDATA[
+text {
+    font: 100 24px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    fill: #fff;
+}
+.quote {
+    text-shadow: 1px 1px 20px #000;
+    fill: url(#rainbow);
+}
+.badge { fill: #6da300; font-weight: 200; }
+.small { font-size: 10px }
+]]></style>
+</svg>

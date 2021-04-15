@@ -1,3 +1,5 @@
-# Hello world
+# Hello
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure possimus sit, maiores consectetur similique accusamus exercitationem animi distinctio deleniti reiciendis officia, autem quas sequi pariatur assumenda natus alias ipsa eius molestias ipsum, porro voluptatem accusantium suscipit in. Quaerat dicta odio aliquam qui tempore assumenda ad, in, doloremque iure, suscipit est?
+and welcome in our blog, make sur to read the [‘IMPORTANT READ FIRST’](post/2021/03/31/32) post, it's in the [‘about us & the blog’](list/category/About%20us%20and%20the%20Blog) category and enjoy your life here 😁.
+
+<p class="text-right">The owners.</p>
